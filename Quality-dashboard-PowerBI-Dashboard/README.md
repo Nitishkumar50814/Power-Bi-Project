@@ -51,14 +51,8 @@ The project uses a **star schema** with:
 ## 📸 Dashboard Preview
 
 ![Dashboard](https://raw.githubusercontent.com/Nitishkumar50814/Power-Bi-Project/main/Quality-dashboard-PowerBI-Dashboard/Dashboard_Screenshort/Executive%20Overview.png)]
-
+![Dashboard](https://github.com/Nitishkumar50814/Power-Bi-Project/blob/main/Quality-dashboard-PowerBI-Dashboard/Dashboard_Screenshort/Cost%20Of%20Poor%20Quality%20.png)]
+![Dashboard](https://github.com/Nitishkumar50814/Power-Bi-Project/blob/main/Quality-dashboard-PowerBI-Dashboard/Dashboard_Screenshort/Relationship%20of%20Data%20.png)
 ---
 
-## 📂 Project Structure
--
-Quality-Dashboard-Project/
-│
-├── Dashboard.pbix
-├── data/
-├── screenshots/
-└── README.md
+
