@@ -49,7 +49,8 @@ The project uses a **star schema** with:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+
+![Dashboard](https://raw.githubusercontent.com/Nitishkumar50814/Power-Bi-Project/main/Quality-dashboard-PowerBI-Dashboard/Dashboard_Screenshort/Executive%20Overview.png)]
 
 ---
 
