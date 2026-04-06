@@ -1,0 +1,9 @@
+defect_id,defect_type,defect_category,severity
+1,Dimension Out of Tolerance,Dimensional,High
+2,Burr Formation,Surface,Medium
+3,Surface Roughness High,Surface,Medium
+4,Hole Misalignment,Dimensional,High
+5,Thread Damage,Functional,High
+6,Chamfer Missing,Dimensional,Low
+7,Tool Mark,Surface,Low
+8,Material Crack,Material,Critical

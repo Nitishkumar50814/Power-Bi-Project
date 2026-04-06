@@ -1,0 +1,11 @@
+machine_id,machine_name,machine_type,department,plant
+101,CNC_01,CNC Turning,Machining,Plant_1
+102,CNC_02,CNC Turning,Machining,Plant_1
+103,VMC_01,Vertical Machining Center,Machining,Plant_1
+104,VMC_02,Vertical Machining Center,Machining,Plant_1
+105,HMC_01,Horizontal Machining Center,Machining,Plant_1
+106,DRILL_01,Radial Drilling,Machining,Plant_1
+107,GRIND_01,Cylindrical Grinding,Machining,Plant_1
+108,CNC_03,CNC Turning,Machining,Plant_2
+109,VMC_03,Vertical Machining Center,Machining,Plant_2
+110,HMC_02,Horizontal Machining Center,Machining,Plant_2

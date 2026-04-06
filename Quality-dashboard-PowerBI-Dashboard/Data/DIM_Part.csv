@@ -1,0 +1,31 @@
+part_id,part_number,part_name,material_type,customer_id,standard_cost
+1001,PN1001,Collar,Alloy Steel,2,525.81
+1002,PN1002,Gear,Aluminum,2,637.87
+1003,PN1003,Gear,Casting,4,342.4
+1004,PN1004,Gear,Casting,2,572.07
+1005,PN1005,Gear,Aluminum,2,809.48
+1006,PN1006,Gear,Carbon Steel,4,1102.7
+1007,PN1007,Rotor,Alloy Steel,1,1380.17
+1008,PN1008,Rotor,Casting,3,1157.02
+1009,PN1009,Rotor,Aluminum,5,1299.25
+1010,PN1010,Gear,Carbon Steel,5,538.1
+1011,PN1011,Collar,Aluminum,5,1286.68
+1012,PN1012,Rotor,Alloy Steel,4,510.19
+1013,PN1013,Spindle,Forged,2,1397.77
+1014,PN1014,Valve Body,Forged,1,755.77
+1015,PN1015,Collar,Alloy Steel,1,1212.7
+1016,PN1016,Rotor,Alloy Steel,1,781.28
+1017,PN1017,Gear,Forged,3,594.96
+1018,PN1018,Rotor,Alloy Steel,2,1299.05
+1019,PN1019,Coupling,Forged,1,1397.01
+1020,PN1020,Rotor,Casting,4,485.11
+1021,PN1021,Valve Body,Casting,1,1076.08
+1022,PN1022,Collar,Alloy Steel,5,1117.7
+1023,PN1023,Collar,Alloy Steel,2,398.12
+1024,PN1024,Bracket,Alloy Steel,4,386.86
+1025,PN1025,Collar,Alloy Steel,4,1278.26
+1026,PN1026,Gear,Carbon Steel,2,1074.78
+1027,PN1027,Valve Body,Carbon Steel,2,1066.64
+1028,PN1028,Flange,Forged,2,483.39
+1029,PN1029,Coupling,Forged,5,1008.1
+1030,PN1030,Flange,Forged,1,603.08
